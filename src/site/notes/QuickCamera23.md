@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/quick-camera23/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"QuickCamera","dg-publish":true,"dg-home":true,"permalink":"/quick-camera23/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
