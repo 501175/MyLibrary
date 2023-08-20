@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pc/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/pc/"}
 ---
 
 2131313333333333333333333333333333231313213
