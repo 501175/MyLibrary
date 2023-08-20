@@ -1,9 +1,9 @@
 ---
-{"title":"QuickCamera","dg-publish":true,"dg-home":true,"permalink":"/quick-camera-test/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/quick-camera-test/","title":"QuickCamera","tags":["gardenEntry"]}
 ---
 
 
 213123123
 [[pc\|pc]]
 [[pc\|pc]][[pc\|pc]][[pc\|pc]][[pc\|pc]][[pc\|pc]][[pc\|pc]]
-312312313321313222
+### **312312313321313222**
