@@ -12,26 +12,26 @@
 - [Frequently asked questions  
     常见问题](https://docs.godotengine.org/en/3.6/about/faq.html)
     - [What can I do with Godot? How much does it cost? What are the license terms?  
-        我能用戈多做什么？多少钱？许可条款是什么？](https://docs.godotengine.org/en/3.6/about/faq.html#what-can-i-do-with-godot-how-much-does-it-cost-what-are-the-license-terms)
+        **我能用戈多做什么？多少钱？许可条款是什么？**](https://docs.godotengine.org/en/3.6/about/faq.html#what-can-i-do-with-godot-how-much-does-it-cost-what-are-the-license-terms)
     - [Which platforms are supported by Godot?  
-        Godot支持哪些平台？](https://docs.godotengine.org/en/3.6/about/faq.html#which-platforms-are-supported-by-godot)
+        **Godot支持哪些平台？**](https://docs.godotengine.org/en/3.6/about/faq.html#which-platforms-are-supported-by-godot)
     - [Which programming languages are supported in Godot?  
-        Godot支持哪些编程语言？](https://docs.godotengine.org/en/3.6/about/faq.html#which-programming-languages-are-supported-in-godot)
+        **Godot支持哪些编程语言？**](https://docs.godotengine.org/en/3.6/about/faq.html#which-programming-languages-are-supported-in-godot)
     - [What is GDScript and why should I use it?  
-        什么是 GDScript，我为什么要使用它？](https://docs.godotengine.org/en/3.6/about/faq.html#what-is-gdscript-and-why-should-i-use-it)
+        **什么是 GDScript，我为什么要使用它？**](https://docs.godotengine.org/en/3.6/about/faq.html#what-is-gdscript-and-why-should-i-use-it)
     - [What were the motivations behind creating GDScript?  
-        创建GDScript背后的动机是什么？](https://docs.godotengine.org/en/3.6/about/faq.html#what-were-the-motivations-behind-creating-gdscript)
+        **创建GDScript背后的动机是什么？**](https://docs.godotengine.org/en/3.6/about/faq.html#what-were-the-motivations-behind-creating-gdscript)
     - [What type of 3D model formats does Godot support?  
-        Godot支持哪些类型的3D模型格式？](https://docs.godotengine.org/en/3.6/about/faq.html#what-type-of-3d-model-formats-does-godot-support)
+        **Godot支持哪些类型的3D模型格式？**](https://docs.godotengine.org/en/3.6/about/faq.html#what-type-of-3d-model-formats-does-godot-support)
     - [Will [insert closed SDK such as FMOD, GameWorks, etc.] be supported in Godot?  
         [插入封闭的SDK，如FMOD，GameWorks等]在Godot中是否受支持？](https://docs.godotengine.org/en/3.6/about/faq.html#will-insert-closed-sdk-such-as-fmod-gameworks-etc-be-supported-in-godot)
     - [How do I install the Godot editor on my system (for desktop integration)?  
-        如何在我的系统上安装Godot编辑器（用于桌面集成）？](https://docs.godotengine.org/en/3.6/about/faq.html#how-do-i-install-the-godot-editor-on-my-system-for-desktop-integration)
+        **如何在我的系统上安装Godot编辑器（用于桌面集成）？**](https://docs.godotengine.org/en/3.6/about/faq.html#how-do-i-install-the-godot-editor-on-my-system-for-desktop-integration)
         - [Windows 窗户](https://docs.godotengine.org/en/3.6/about/faq.html#windows)
         - [macOS 苹果操作系统](https://docs.godotengine.org/en/3.6/about/faq.html#macos)
         - [Linux Linux目录](https://docs.godotengine.org/en/3.6/about/faq.html#linux)
     - [Is the Godot editor a portable application?  
-        戈多编辑器是便携式应用程序吗？](https://docs.godotengine.org/en/3.6/about/faq.html#is-the-godot-editor-a-portable-application)
+        **戈多编辑器是便携式应用程序吗？**](https://docs.godotengine.org/en/3.6/about/faq.html#is-the-godot-editor-a-portable-application)
     - [Why does Godot use Vulkan or OpenGL instead of Direct3D?  
         为什么Godot使用Vulkan或OpenGL而不是Direct3D？](https://docs.godotengine.org/en/3.6/about/faq.html#why-does-godot-use-vulkan-or-opengl-instead-of-direct3d)
     - [Why does Godot aim to keep its core feature set small?  
@@ -115,6 +115,8 @@
         - [Miscellaneous 杂项](https://docs.godotengine.org/en/3.6/about/list_of_features.html#miscellaneous)
 - [Documentation changelog  
     文档更新日志](https://docs.godotengine.org/en/3.6/about/docs_changelog.html)
+{ #428709}
+
     - [New tutorials since version 3.1  
         自版本 3.1 以来的新教程](https://docs.godotengine.org/en/3.6/about/docs_changelog.html#new-tutorials-since-version-3-1)
         - [Project workflow 项目工作流](https://docs.godotengine.org/en/3.6/about/docs_changelog.html#project-workflow)
